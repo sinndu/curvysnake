@@ -1,0 +1,9 @@
+H:\MonoGame\RPG\slipperysnake\build\slipperysnake.pdb
+H:\MonoGame\RPG\slipperysnake\build\Content/apple.xnb
+H:\MonoGame\RPG\slipperysnake\build\Content/board.xnb
+H:\MonoGame\RPG\slipperysnake\build\Content/body.xnb
+H:\MonoGame\RPG\slipperysnake\build\Content/File.xnb
+H:\MonoGame\RPG\slipperysnake\build\Content/head.xnb
+H:\MonoGame\RPG\slipperysnake\build\SDL2.dll
+H:\MonoGame\RPG\slipperysnake\build\soft_oal.dll
+H:\MonoGame\RPG\slipperysnake\build\slipperysnake.exe

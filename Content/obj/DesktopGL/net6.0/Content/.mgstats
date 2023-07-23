@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"H:/MonoGame/RPG/slipperysnake/Content/apple.png","H:/MonoGame/RPG/slipperysnake/Content/bin/DesktopGL/Content/apple.xnb","TextureProcessor","Texture2DContent",132,661,0.1256721
+"H:/MonoGame/RPG/slipperysnake/Content/board.png","H:/MonoGame/RPG/slipperysnake/Content/bin/DesktopGL/Content/board.xnb","TextureProcessor","Texture2DContent",267,16469,0.1240586
+"H:/MonoGame/RPG/slipperysnake/Content/body.png","H:/MonoGame/RPG/slipperysnake/Content/bin/DesktopGL/Content/body.xnb","TextureProcessor","Texture2DContent",113,661,0.0019989
+"H:/MonoGame/RPG/slipperysnake/Content/File.spritefont","H:/MonoGame/RPG/slipperysnake/Content/bin/DesktopGL/Content/File.xnb","FontDescriptionProcessor","SpriteFontContent",2011,21535,0.191229
+"H:/MonoGame/RPG/slipperysnake/Content/head.png","H:/MonoGame/RPG/slipperysnake/Content/bin/DesktopGL/Content/head.xnb","TextureProcessor","Texture2DContent",185,661,0.0025438
