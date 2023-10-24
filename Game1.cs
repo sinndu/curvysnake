@@ -42,7 +42,7 @@ namespace slipperysnake
         float rotation = (float)Math.PI/2;
         bool canStart = true;
 
-        //dewbug line
+        //debug line
         private Texture2D line;
 
         public Game1()
