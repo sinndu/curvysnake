@@ -15,7 +15,7 @@ namespace slipperysnake
     public class Game1 : Game
     {
         private GraphicsDeviceManager _graphics; //manages graphics for game system
-        private SpriteBatch _spriteBatch;
+        private SpriteBatch _spriteBatch; //manages spritebatch
 
         private List<SnakePart> snake = new List<SnakePart>();
         private List<Vector2> snake_history = new List<Vector2>();
